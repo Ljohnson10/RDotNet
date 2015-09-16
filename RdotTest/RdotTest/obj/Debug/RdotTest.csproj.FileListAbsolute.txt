@@ -1,0 +1,15 @@
+C:\Users\Lucas\Desktop\Rdotnettest\RdotTest\RdotTest\bin\Debug\RdotTest.exe.config
+C:\Users\Lucas\Desktop\Rdotnettest\RdotTest\RdotTest\bin\Debug\RdotTest.exe
+C:\Users\Lucas\Desktop\Rdotnettest\RdotTest\RdotTest\bin\Debug\RdotTest.pdb
+C:\Users\Lucas\Desktop\Rdotnettest\RdotTest\RdotTest\bin\Debug\DynamicInterop.dll
+C:\Users\Lucas\Desktop\Rdotnettest\RdotTest\RdotTest\bin\Debug\RDotNet.dll
+C:\Users\Lucas\Desktop\Rdotnettest\RdotTest\RdotTest\bin\Debug\RDotNet.NativeLibrary.dll
+C:\Users\Lucas\Desktop\Rdotnettest\RdotTest\RdotTest\bin\Debug\DynamicInterop.xml
+C:\Users\Lucas\Desktop\Rdotnettest\RdotTest\RdotTest\bin\Debug\RDotNet.xml
+C:\Users\Lucas\Desktop\Rdotnettest\RdotTest\RdotTest\bin\Debug\RDotNet.NativeLibrary.xml
+C:\Users\Lucas\Desktop\Rdotnettest\RdotTest\RdotTest\obj\Debug\RdotTest.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Rdotnettest\RdotTest\RdotTest\obj\Debug\RdotTest.Form1.resources
+C:\Users\Lucas\Desktop\Rdotnettest\RdotTest\RdotTest\obj\Debug\RdotTest.Properties.Resources.resources
+C:\Users\Lucas\Desktop\Rdotnettest\RdotTest\RdotTest\obj\Debug\RdotTest.csproj.GenerateResource.Cache
+C:\Users\Lucas\Desktop\Rdotnettest\RdotTest\RdotTest\obj\Debug\RdotTest.exe
+C:\Users\Lucas\Desktop\Rdotnettest\RdotTest\RdotTest\obj\Debug\RdotTest.pdb
